@@ -5,8 +5,8 @@ import time
 
 P_DOWN = 2
 P_UP = 1
-EMAIL = "doniyke25@yahoo.com"
-P_W = "Alanoddin.25"
+EMAIL = "doniyke25@donalgit.com"
+P_W = "******88"
 
 
 class InternetSpeedTwitterBot():
